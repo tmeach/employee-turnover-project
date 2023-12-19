@@ -1,4 +1,6 @@
-### Capstone project - Employee turnover Prediction
+## Capstone project - Employee turnover Prediction
+![Alt text](image-2.png)
+
 
 ### Overview
 
