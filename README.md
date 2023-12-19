@@ -1,7 +1,5 @@
 ### Capstone project - Employee turnover Prediction
 
-![Alt text](image.png)
-
 ### Overview
 
 This is an end-to-end machine learning project that encompasses model training and deployment.
@@ -85,7 +83,7 @@ pipenv shell
 ```
 
 ### 3. Cloud Deployment
-I deployed my ML model as a web service on [Render](https://render.com/), making it accessible 24/7. To test the deployed model and get predictions, you can use the test_web_server_render.py script. This script allows you to input customer characteristics (features) and receive predictions based on those inputs. You can customize the feature values to get predictions for different scenarios.
+I deployed my ML model as a web service on [Render](https://render.com/), making it accessible 24/7. To test the deployed model and get predictions, you can use the test_web_server_render.py script. This script allows you to input employee's characteristics (features) and receive predictions based on those inputs. You can customize the feature values to get predictions for different scenarios.
 
 Here's how the process works:
 
